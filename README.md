@@ -38,9 +38,13 @@ Study Hours & Student Count – Correlation between hours studied and student we
 # 🔑 Key Insights
 
 ✔️ Students with less than 5 hours of sleep (123 students) show high risk of depression.
+
 ✔️ Academic pressure level AC_3 has the maximum count (125 students), highlighting it as a critical stress factor.
+
 ✔️ Most students study between 6–10 hours, but higher study hours don’t always translate to satisfaction.
+
 ✔️ Study satisfaction level 4 is the highest among students (116), but lower satisfaction levels also have significant counts.
+
 ✔️ Financial stress is evenly distributed, but FS_1 and FS_2 levels cover the majority of students.
 
 # 🏁 Conclusion
